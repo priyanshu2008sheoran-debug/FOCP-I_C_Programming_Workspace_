@@ -2,7 +2,7 @@
 
 Computer Science student · Problem solver · Chess enthusiast · Traveller
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/> <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&logo=github&label=FOLLOWERS" alt="Followers"/> </div>
+<img src="https://komarev.com/ghpvc/?username=Priyanshu Sheoran&style=flat-square&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/> <img src="https://img.shields.io/github/followers/priyanshu2008sheoran-debug?style=flat-square&logo=github&label=FOLLOWERS" alt="Followers"/> </div>
 👋 About Me
 
 I'm a B.Tech Computer Science Engineering student who enjoys turning ideas into working software. I'm building a strong foundation in programming and problem-solving, and I'm exploring Artificial Intelligence and Machine Learning along the way.
